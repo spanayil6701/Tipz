@@ -41,7 +41,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-  - Connecting the IBOutlets to produce data was something I struggled with, but the main thing I struggled with was pushing it to Github. It wouldnt let me no matter how many fixes I used. There error "No Resources Found" would plague my screen. I aplogize if the format it was uploaded in is bad but I had no other choice. The files that would normally appear on the repository are located in the Tipz.zip file. Also for some reason, the two gifs I tried to upload would not show up. Only one would show up. So I attached a demo of the app in the TipzDemo.zip file. 
+
+  - Connecting the IBOutlets in order to produce data was something I struggled with, but the main thing I struggled with was everything Github related. It wouldnt let me push to Github on Swift no matter how many fixes I used. The error "No Resources Found" would plague my screen. I aplogize if the format I uploaded it in is bad but I had no other choice. The files that would normally appear on the repository are located in the Tipz.zip file. Also for some reason, the two gifs I tried to upload would not show up. Only one would show up. So I attached a demo of the app in the TipzDemo.zip file. Sorry for the confusion. 
 
 ## License
 
