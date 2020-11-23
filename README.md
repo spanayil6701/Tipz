@@ -34,10 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/m7f1Xv8.gif)
-
-![](https://i.imgur.com/Sakn8AO.gif)
-
+  - Read Notes and Download the TipzDemo.zip file.
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
